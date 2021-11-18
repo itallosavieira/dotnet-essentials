@@ -90,15 +90,3 @@ Some Essential Dotnet Codes
 ### Heap e Stack
 - Heap armazena Dados
 - Stack armazena referencia para dados
-
-## Calculator
-
-> Console.Clear(); //Clear no console;
-> Console.WriteLine(...); //Print no console;
-> Console.ReadLine(...); //Input no console;
->
-
-
-
-
-
