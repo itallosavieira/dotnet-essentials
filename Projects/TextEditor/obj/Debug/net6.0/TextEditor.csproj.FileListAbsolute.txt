@@ -1,0 +1,15 @@
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/bin/Debug/net6.0/TextEditor
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/bin/Debug/net6.0/ref/TextEditor.dll
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/Users/itallosa/Work/dotnet-essentials/Projects/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache
